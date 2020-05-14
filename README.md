@@ -1,5 +1,5 @@
 # Github Homepage of Jochen Ziegenbalg
-This is a ighly experimental page. 
+This is a highly experimental page. 
 
 Books 
 
