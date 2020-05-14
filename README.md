@@ -10,5 +10,7 @@ Books
 <img src="https://github.com/Jochen-Ziegenbalg/homepage-JZ/blob/master/EZTH-cover-U1-Springer.jpg" border="0" height="227" width="150"> 
 
 <img src="https://github.com/Jochen-Ziegenbalg/homepage-JZ/blob/master/Dynamische-Prozesse-U1-pw.jpg" border="0" height="227" width="150"> 
-<img src="https://github.com/Jochen-Ziegenbalg/homepage-JZ/blob/master/Programmieren-lernen-mit-Logo-U1.jpg" border="0" height="227" width="150">
+<img src="https://github.com/Jochen-Ziegenbalg/homepage-JZ/blob/master/Programmieren-lernen-mit-Logo-U1.jpg" border="0" height="227" width="150"> 
+<img src="https://github.com/Jochen-Ziegenbalg/homepage-JZ/blob/master/Programmieren-lernen-mit-Logo-U1.jpg" border="0" height="227" width="150"> 
+
 The End 
