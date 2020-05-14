@@ -1,4 +1,6 @@
 # Github Homepage of Jochen Ziegenbalg
+This is a ighly experimental page. 
+
 Books 
 
 ![Figurate Numbers](https://github.com/Jochen-Ziegenbalg/homepage-JZ/blob/master/Figurierte-Zahlen-U1.jpg) 
